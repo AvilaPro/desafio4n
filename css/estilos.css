@@ -1,6 +1,6 @@
 .imgfondo{
     /* The image used */
-    background-image: url("../img/git-banner1.png");
+    background-image: url("../img/git_banner.jpg");
 
     /* Set a specific height */
     height: 1100px; 
@@ -26,6 +26,10 @@
     padding-top: 20px;
 }
 #menu{
+    color: rgb(247, 121, 18);
+    font-size: 20px;
+}
+#menu1{
     color: white;
     font-size: 20px;
 }
@@ -43,7 +47,7 @@
 }
 #centro-nombre{
     text-align: center;
-    color: #FFEB3B;
+    color: rgb(206, 22, 22);
     font-family: 'Merienda', cursive;
     font-size: 100px;
 }
